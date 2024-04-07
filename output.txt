@@ -1,0 +1,95 @@
+-----Deque-----
+FIO: John Bunyan
+Title: The Pilgrim's Progress
+Publisher: Versify
+Year: 1678
+Number of pages: 367
+
+FIO: Daniel Defoe
+Title: Robinson Crusoe
+Publisher: Knopf Doubleday
+Year: 1719
+Number of pages: 919
+
+FIO: Jonathan Swift
+Title: Gulliver's Travels
+Publisher: Coffee House Press
+Year: 1726
+Number of pages: 431
+
+FIO: Samuel Richardson
+Title: Clarissa
+Publisher: Saraband
+Year: 1748
+Number of pages: 647
+
+FIO: Edgar Allan Poe
+Title: The Narrative of Arthur Gordon Pym of Nantucket
+Publisher: Unnamed Press
+Year: 1838
+Number of pages: 391
+
+-----Copied deque to list-----
+-----List-----
+FIO: John Bunyan
+Title: The Pilgrim's Progress
+Publisher: Versify
+Year: 1678
+Number of pages: 367
+
+FIO: Daniel Defoe
+Title: Robinson Crusoe
+Publisher: Knopf Doubleday
+Year: 1719
+Number of pages: 919
+
+FIO: Jonathan Swift
+Title: Gulliver's Travels
+Publisher: Coffee House Press
+Year: 1726
+Number of pages: 431
+
+FIO: Samuel Richardson
+Title: Clarissa
+Publisher: Saraband
+Year: 1748
+Number of pages: 647
+
+FIO: Edgar Allan Poe
+Title: The Narrative of Arthur Gordon Pym of Nantucket
+Publisher: Unnamed Press
+Year: 1838
+Number of pages: 391
+
+-----Sorted deque-----
+-----Deque-----
+FIO: Samuel Richardson
+Title: Clarissa
+Publisher: Saraband
+Year: 1748
+Number of pages: 647
+
+FIO: Jonathan Swift
+Title: Gulliver's Travels
+Publisher: Coffee House Press
+Year: 1726
+Number of pages: 431
+
+FIO: Daniel Defoe
+Title: Robinson Crusoe
+Publisher: Knopf Doubleday
+Year: 1719
+Number of pages: 919
+
+FIO: Edgar Allan Poe
+Title: The Narrative of Arthur Gordon Pym of Nantucket
+Publisher: Unnamed Press
+Year: 1838
+Number of pages: 391
+
+FIO: John Bunyan
+Title: The Pilgrim's Progress
+Publisher: Versify
+Year: 1678
+Number of pages: 367
+
